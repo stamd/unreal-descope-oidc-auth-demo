@@ -1,4 +1,4 @@
-# Unreal Engine + Descope OAuth2 Authentication Demo
+# Unreal Engine OIDC Authentication with Descope
 
 This project demonstrates how to integrate Descope's OAuth2 authentication flow into an Unreal Engine 5 game using C++. It covers the full login/logout flow, including redirecting users to the browser, receiving the authorization code via a local socket listener, exchanging it for tokens, and updating the UI accordingly.
 
